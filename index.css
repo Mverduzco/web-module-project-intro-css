@@ -44,8 +44,9 @@ table {
 
 body{
     font-family: Roboto Mono;
-    background-color: #DDB9A3;
-    text-align: center
+    font-size: 2em;
+    text-align: center;
+	
 
 }
 .button1{
@@ -61,4 +62,12 @@ body{
 
 h1{
     font-family: Chelsesa Market;
+}
+
+.Fires-info{
+	font-weight: bold;
+}
+
+.reservations-info{
+	font-weight: bold;
 }
