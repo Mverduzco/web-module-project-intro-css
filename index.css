@@ -51,16 +51,28 @@ body{
 }
 .plan{
 	background-color:#FF764E;
+	color:white;
 }
 .learn{
 	background-color:#5ED3EB;
+	color:white;
 }
 .get{
 	background-color:#FFCD69;
+	color:white;
 }
 
 h1{
     font-family: Chelsesa Market;
+	font-size: 5rem;
+}
+.opening{
+	padding: 5%;
+} 
+.main{
+	background-color: #DDB9A3;
+	color: white;
+	margin: 0 3%;
 }
 
 .Fires-info{
@@ -72,7 +84,7 @@ h1{
 }
 
 .img2{
-	width: 30%;
+	width: 10%;
 }
 
 }
@@ -80,8 +92,8 @@ h1{
 	font-weight: bold;
 }
 .bottonlinks{
-	
-	display: inline-block;
-	margin:1px;
-	width: 33%;
+    display: inline-block;
+    min-height: 100px;
+    margin: 1%;
+    width: 33%;
 }
