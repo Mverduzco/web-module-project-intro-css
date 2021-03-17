@@ -49,15 +49,14 @@ body{
 	
 
 }
-.button1{
-    color:#FF764E
+.plan{
+	background-color:#FF764E;
 }
-.button2{
-    color:#5ED3EB
+.learn{
+	background-color:#5ED3EB;
 }
-.button3{
-    color:#FFCD69
-
+.get{
+	background-color:#FFCD69;
 }
 
 h1{
@@ -68,6 +67,21 @@ h1{
 	font-weight: bold;
 }
 
+.img1{
+	width: ;
+}
+
+.img2{
+	width: 30%;
+}
+
+}
 .reservations-info{
 	font-weight: bold;
+}
+.bottonlinks{
+	
+	display: inline-block;
+	margin:1px;
+	width: 33%;
 }
